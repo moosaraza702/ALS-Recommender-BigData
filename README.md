@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements a scalable product recommendation system using the
 Alternating Least Squares (ALS) algorithm on the Instacart Market Basket
-Analysis dataset. Apache Spark is used to process large-scale data and
+Analysis dataset consist of more than 35M rows. Apache Spark is used to process large-scale data and
 generate personalized recommendations.
 
 ## Dataset
